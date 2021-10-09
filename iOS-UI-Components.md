@@ -19,7 +19,7 @@
 
 https://support.apple.com/guide/iphone/learn-basic-gestures-iph75e97af9b/ios
 
-https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/handling_uikit_gestures
+https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/gestures/
 
 Gesture trong iOS gồm có các loại chính:
 
