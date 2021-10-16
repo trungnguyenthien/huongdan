@@ -33,4 +33,4 @@ Chú ý:
 
 ### 3.2) Join network
 
-![image-20211016193804168](https://tva1.sinaimg.cn/large/008i3skNgy1gvhfmjoj0kj618m0m2gp402.jpg)
+![image-20211016195539331](https://tva1.sinaimg.cn/large/008i3skNgy1gvhg4r2evhj618m0m2n0o02.jpg)
