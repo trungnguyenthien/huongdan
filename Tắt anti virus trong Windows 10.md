@@ -2,11 +2,11 @@
 
 Mở cửa sổ **Virus & threat protection** (bằng cách search trong cửa số Start)
 
-<img src="/Users/trung/Library/Application Support/typora-user-images/image-20211009135404781.png" alt="image-20211009135404781" style="zoom: 33%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gw689mn6saj313k0u0jts.jpg" alt="image-20211009135404781" style="zoom: 33%;" />
 
 Ở nhóm **Virus & threat protection settings**, chọn Manage setting
 
-<img src="/Users/trung/Library/Application Support/typora-user-images/image-20211009135514593.png" alt="image-20211009135514593" style="zoom:50%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gw689q32ryj30y00da0tj.jpg" alt="image-20211009135514593" style="zoom:50%;" />
 
 Ở lựa chọn **Real-time protection**, chọn OFF .
 
